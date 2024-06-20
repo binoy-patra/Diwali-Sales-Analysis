@@ -80,9 +80,9 @@ Based on the findings from our analysis, the following strategic decisions can b
 ## File Descriptions
 
 - **Diwali Sales Analysis.ipynb**: Python script containing data analysis and visualization code.
-- **dataset\Diwali Sales Data.csv**: Dataset file containing Amazon books data.
+- **dataset\Diwali Sales Data.csv**: Dataset file containing Diwali Sales data.
 - **Diwali Sales Analysis.pdf**: Report relared to this analysis
-- ***images*: Images 
+- **images**: Images related to this project
 - **README.md**: Documentation file providing an overview of the project.
 
 ## Strategic Implementation:
